@@ -1,0 +1,26 @@
+Producido examen: E2-2021
+E2-2021 Juan Pregunta 3;C
+E2-2021 Juan Pregunta 6;B
+E2-2021 Juan Pregunta 7;B
+E2-2021 Juan Pregunta 8;B
+E2-2021 Juan Pregunta 10;C
+Producido examen: E1-2021
+Producido examen: E3-2021
+E1-2021 Luis Pregunta 1;C
+E3-2021 Pepe Pregunta 2;C
+E1-2021 Luis Pregunta 2;B
+E3-2021 Pepe Pregunta 3;B
+E1-2021 Luis Pregunta 3;C
+E3-2021 Pepe Pregunta 5;A
+E1-2021 Luis Pregunta 4;C
+E3-2021 Pepe Pregunta 6;A
+E1-2021 Luis Pregunta 5;B
+E3-2021 Pepe Pregunta 7;C
+E1-2021 Luis Pregunta 6;A
+E3-2021 Pepe Pregunta 8;A
+E1-2021 Luis Pregunta 7;C
+E3-2021 Pepe Pregunta 9;B
+E1-2021 Luis Pregunta 8;B
+E3-2021 Pepe Pregunta 10;C
+E1-2021 Luis Pregunta 9;B
+E1-2021 Luis Pregunta 10;B
