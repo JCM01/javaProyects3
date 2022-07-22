@@ -2,7 +2,7 @@
 
 ## These are some projects that I have been working a while ago only using IDE Eclipse and using as server Tomcat 9.0v
 
-- Spring (Basic) -> Projects -> Supermarket and SpringCar
+- Spring and MVC (Basic) -> Projects -> Supermarket and SpringCar
 - Cryptography (Hash, Cypher, Digital Sign, etc.)
 - Sockets Client and Server
 - Retrieve Client and Server
